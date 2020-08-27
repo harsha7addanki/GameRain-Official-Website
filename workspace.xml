@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93886bec-1655-4668-a122-5de8afc95ad1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/.transforms/c8b6c64a8dd6adadf20c41a1abb95891.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/.transforms/c8b6c64a8dd6adadf20c41a1abb95891/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/generated/source/buildConfig/debug/com/fztl/harsha/gamerain/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/aar_main_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/annotations_typedef_file/debug/typedefs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/compiled_local_resources/debug/out/layout_sample_game_view.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/javac/debug/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/merged_consumer_proguard_file/debug/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/outputs/aar/GameRain-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/androidTest/java/com/fztl/harsha/gamerain/ExampleInstrumentedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/fztl/harsha/gamerain/GRCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/fztl/harsha/gamerain/GRGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/fztl/harsha/gamerain/GRThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/fztl/harsha/gamerain/GameView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/release/java/com/fztl/harsha/gamerain/GameView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/test/java/com/fztl/harsha/gamerain/ExampleUnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fztl/harsha/gamerain/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/sample_game_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/attrs_game_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/release/java/com/fztl/harsha/gamerain/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/release/res/layout/sample_game_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/release/res/values/attrs_game_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.transforms/c8b6c64a8dd6adadf20c41a1abb95891/classes/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/.transforms/c8b6c64a8dd6adadf20c41a1abb95891/classes/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/classes/com/fztl/harsha/gamerain/GRThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fztl/harsha/gamerain/GRGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fztl/harsha/gamerain/GRGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fztl/harsha/gamerain/GRThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fztl/harsha/gamerain/GRThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gbfMlohXp8fpyLyYO7tXmv248B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameRain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GameRain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93886bec-1655-4668-a122-5de8afc95ad1" name="Default Changelist" comment="" />
+      <created>1598388167432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598388167432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598388694611">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state x="134" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1208.997@72.27.1208.997" timestamp="1598388694611" />
+    <state x="383" y="195" width="575" height="675" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598389113876">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state x="383" y="195" width="575" height="675" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1208.997@72.27.1208.997" timestamp="1598389113876" />
+    <state x="459" y="283" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598389128658">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state x="459" y="283" width="424" height="491" key="FileChooserDialogImpl/72.27.1208.997@72.27.1208.997" timestamp="1598389128658" />
+    <state width="1162" height="257" key="GridCell.Tab.0.bottom" timestamp="1598389130912">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state width="1162" height="257" key="GridCell.Tab.0.bottom/72.27.1208.997@72.27.1208.997" timestamp="1598389130912" />
+    <state width="1162" height="257" key="GridCell.Tab.0.center" timestamp="1598389130911">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state width="1162" height="257" key="GridCell.Tab.0.center/72.27.1208.997@72.27.1208.997" timestamp="1598389130911" />
+    <state width="1162" height="257" key="GridCell.Tab.0.left" timestamp="1598389130910">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state width="1162" height="257" key="GridCell.Tab.0.left/72.27.1208.997@72.27.1208.997" timestamp="1598389130910" />
+    <state width="1162" height="257" key="GridCell.Tab.0.right" timestamp="1598389130911">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state width="1162" height="257" key="GridCell.Tab.0.right/72.27.1208.997@72.27.1208.997" timestamp="1598389130911" />
+    <state x="165" y="160" width="1022" height="737" key="SettingsEditor" timestamp="1598389009379">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state x="165" y="160" width="1022" height="737" key="SettingsEditor/72.27.1208.997@72.27.1208.997" timestamp="1598389009379" />
+    <state x="72" y="127" width="1208" height="803" key="new project wizard" timestamp="1598389089251">
+      <screen x="72" y="27" width="1208" height="997" />
+    </state>
+    <state x="72" y="127" width="1208" height="803" key="new project wizard/72.27.1208.997@72.27.1208.997" timestamp="1598389089251" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GameRain$GameRain.ic" NAME="GameRain Coverage Results" MODIFIED="1598388260612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

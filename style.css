@@ -1,0 +1,16 @@
+@font-face{
+	font-family: hi;
+	src: url(font.otf);
+}
+
+#header{
+	font-family:hi;
+	text-align: center;
+	background-color: blue;
+	padding: 10px;
+	position: absolute;
+	right: 0px;
+	bottom: 90%;
+	width:100%;
+  	height:49px;
+}

@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+id MyGameView
+layout sample_game_view
+styleable GameView
